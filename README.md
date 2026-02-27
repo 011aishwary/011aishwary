@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am a full stack web developer <br>i have also done data science and <br>currently i am learning DSA Ai/Ml<br>i am currently in 2nd year persuing ELectronics and cummunication from NIT Surat 
+i am a full stack web developer <br>i have also done data science and <br>currently i am learning DSA Ai/Ml<br>I am currently in 2nd year persuing Electronics and cummunication from NIT Surat 
 
 
 ## 🌐 Socials:
@@ -18,4 +18,4 @@ i am a full stack web developer <br>i have also done data science and <br>curren
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=011aishwary&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
