@@ -11,9 +11,10 @@ i am a full stack web developer <br>i have also done data science and <br>curren
 ![](https://github-readme-stats.vercel.app/api?username=011aishwary&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=011aishwary&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=011aishwary&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
+ 
+ <!-- Generates random quote daily -->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=011aishwary&limit=5&theme=dark&combine_all_yearly_contributions=true)
